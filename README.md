@@ -12,5 +12,5 @@ El contenido es el que sigue:
 - _PRÁCTICA 2/ Limpieza y análisis de los datos.ipynb_: Archivo en _Jupyter notebook_ en el que se describe los procesos de limpieza y análisis previos a la elaboración del modelo. En el se desarrollan las preguntas de la práctica tal y como se enumeran en el enunciado de la práctica. Contiene el código del tratamiento de datos y es el responsable de la creación del _dataset_ **df_wine_cleaned.csv**.
 - _PRÁCTICA 2_ Limpieza y análisis de los datos.pdf_: Archivo _.pdf_ elaborado a partir del archivo en _Jupyter notebook_.
 - _PRÁCTICA 2_ Limpieza y análisis de los datos.html_: Archivo _.html_ elaborado a partir del archivo en _Jupyter notebook_.
-
+_ _LICENCE_: Licencia del proyecto.
 
